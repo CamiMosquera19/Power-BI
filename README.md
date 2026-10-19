@@ -20,5 +20,7 @@ Estructura de carpetas sugerida:
 ## Convención de nombres
 Para los archivos guardados en estas carpetas, se debe utilizar la siguiente convención:
 `AAAAMMDD_Dominio_Descripcion.ext` (ejemplo: `20260922_DominioB_lab-configuracion.png`)
-```[cite: 1]
+```[* **Ejemplo 1:** `20260928_Dominio1_Lab1_CargaYTransformacionPowerQuery.pbix`
+* **Ejemplo 2:** `20261012_Dominio2_Lab3_ModeloEstrellaRelacional.png`
+* **Ejemplo 3:** `20261102_Dominio4_Lab8_ValidacionSeguridadRLS.png`]
 
